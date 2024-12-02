@@ -38,7 +38,7 @@ jupyter_core==5.7.2
 kiwisolver==1.4.7
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-matplotlib==3.9.3  # Menggunakan versi yang valid dan lebih stabil
+matplotlib==3.8.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 PyMySQL==1.0.3
@@ -91,5 +91,5 @@ waitress==3.0.0
 watchdog==6.0.0
 wcwidth==0.2.13
 Werkzeug==3.0.4
-setuptools==67.0.0   # Menambahkan setuptools (versi terbaru)
-wheel==0.40.0        # Menambahkan wheel (versi terbaru)
+setuptools==70.0.0
+wheel==0.41.3
